@@ -1,6 +1,6 @@
 # HW6-HMM
 
-![BuildStatus](https://github.com/isaiahah/HW6-HMM/actions/workflows/test.yml/badge.svg)
+[![HMMTests](https://github.com/isaiahah/HW6-HMM/actions/workflows/test.yaml/badge.svg)](https://github.com/isaiahah/HW6-HMM/actions/workflows/test.yaml)
 
 ## Forward Algorithm
 The forward algorithm calculates the probability of a series of `T` observed states, agnostic of the `N` possible hidden states. It performs this using dynamic programming:
